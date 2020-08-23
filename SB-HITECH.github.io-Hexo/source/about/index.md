@@ -20,27 +20,39 @@ SB是Smart Bridge的缩写，可译为智桥，智跃
 
 # 免费的学习资源
 
+## 钉钉职场社区
+
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-circle-career.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
+
 ## 钉钉职业技能学习圈云课堂
 
-本社群目前可容纳1万人，单个群组1千人。  
+* 本社群目前可容纳1万人，单个群组1千人。  
 
-<img src="https://SB-HITECH.github.io/img/dingding/dingding-learning.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-circle-learning.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
 
-### Salesforce
-* 中文免费公开课
-
-### UiPath
-* 官方课程
+* Salesforce
+提供中文免费公开课资料
 
 
-### Mainframe
-* IBM内部培训（中文）
-
-### 日语
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-group-salesforce.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
 
 
+* UiPath
+提供官方课程和社区公开课资料  
 
-### 英语
+
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-group-excle-rpa.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
+
+* Mainframe
+IBM内部培训（中文）  
+
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-group-mainframe.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
+
+* 专业日语
+
+
+
+* 专业英语
 
 
 
@@ -49,7 +61,8 @@ SB是Smart Bridge的缩写，可译为智桥，智跃
 本社群目前可容纳1万人，单个群组1千人。  
 
 
-<img src="https://SB-HITECH.github.io/img/dingding/dingding-study.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
+
+ <img src="https://SB-HITECH.github.io/assets/img/dingding/dingding-circle-study.jpg" width = "350" height = "380" alt="万人知识共享社区" align=center />
 
 
 ### 考研社区
